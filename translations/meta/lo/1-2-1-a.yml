@@ -1,73 +1,90 @@
-UNIT_MEASURE: <p>ເປີເຊັນ, %</p>
-STAT_CONC_DEF: <p> <strong> ນິຍາມ:</strong></p><p><p>ອັດຕາຄວາມທຸກຍາກຂອງຊາດແມ່ນອັດຕາສ່ວນຂອງປະຊາກອນທັງຫມົດທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ.
+UNIT_MEASURE: <p>ສ່ວນຮ້ອຍ, %</p>
+STAT_CONC_DEF: <p> <strong> 
+  ນິຍາມ:</strong></p><p><p>ອັດຕາຄວາມທຸກຍາກຂອງຊາດແມ່ນອັດຕາສ່ວນຂອງປະຊາກອນທັງຫມົດທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ.
   ອັດຕາຄວາມທຸກຍາກໃນຊົນນະບົດແມ່ນອັດຕາສ່ວນຂອງປະຊາກອນຊົນນະບົດທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກຂອງຊາດ.
   ອັດຕາຄວາມທຸກຍາກໃນຕົວເມືອງແມ່ນອັດຕາສ່ວນຂອງປະຊາກອນເມືອງທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ.
-  </p> <p> <strong> ແນວຄວາມຄິດ:</strong></p><p><p>ໃນການປະເມີນຄວາມທຸກຍາກໃນລາວ PDR,
-  ແລະວິທີທີ່ດີທີ່ສຸດເພື່ອຫຼຸດຜ່ອນຄວາມທຸກຍາກຕາມນິຍາມຂອງຊາດ, ເອົາໃຈໃສ່ໃນການມີເສັ້ນຄວາມທຸກຍາກທີ່ຖືວ່າເຫມາະສົມສໍາລັບ
-  Lao PDR.  ເຊັ່ນດຽວກັນ, ພາຍໃນ Lao PDR, ຄວາມແຕກຕ່າງຂອງຄ່າໃຊ້ຈ່າຍໃນການດໍາລົງຊີວິດໃນທົ່ວແຂວງ
-  ແລະ ລະຫວ່າງຕົວເມືອງ ແລະ ເຂດຊົນນະບົດ ຕ້ອງໄດ້ຮັບຜິດຊອບໃນການກໍານົດເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ.
-  </p>
+  </p> <p> <strong> ແນວຄວາມຄິດ:</strong></p><p><p>ໃນການປະເມີນຄວາມທຸກຍາກໃນລາວ 
+  PDR, ແລະວິທີທີ່ດີທີ່ສຸດເພື່ອຫຼຸດຜ່ອນຄວາມທຸກຍາກຕາມນິຍາມຂອງຊາດ, 
+  ເອົາໃຈໃສ່ໃນການມີເສັ້ນຄວາມທຸກຍາກທີ່ຖືວ່າເຫມາະສົມສໍາລັບ Lao PDR.  ເຊັ່ນດຽວກັນ, 
+  ພາຍໃນ Lao PDR, ຄວາມແຕກຕ່າງຂອງຄ່າໃຊ້ຈ່າຍໃນການດໍາລົງຊີວິດໃນທົ່ວແຂວງ ແລະ 
+  ລະຫວ່າງຕົວເມືອງ ແລະ ເຂດຊົນນະບົດ 
+  ຕ້ອງໄດ້ຮັບຜິດຊອບໃນການກໍານົດເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ. </p>
 SOURCE_TYPE: <p> ການສໍາຫຼວດລາຍຈ່າຍ ແລະ ການບໍລິໂພກLao (LECS) </p>
-SDG_TARGET: <p>1.2 ຮອດປີ 2030, ຫຼຸດລົງຢ່າງຫນ້ອຍເຄິ່ງຫນຶ່ງຂອງອັດຕາສ່ວນຂອງຜູ້ຊາຍ, ແມ່ຍິງ
-  ແລະ ເດັກນ້ອຍທຸກໄວທີ່ດໍາລົງຊີວິດຢູ່ໃນຄວາມທຸກຍາກໃນທຸກມິຕິຕາມຄວາມຫມາຍຂອງຊາດ</p>
-SDG_SERIES_DESCR: <p> ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ</p>
+SDG_TARGET: <p>1.2 ພາຍໃນປີ 2030, ຫຼຸດອັດຕາສ່ວນຂອງຜູ້ຊາຍ, ແມ່ຍິງ ແລະ 
+  ເດັກນ້ອຍໃນທຸກເກນອາຍຸ ທີ່ດຳລົງຊີວິດໃນຄວາມທຸກຍາກໃນທຸກມິຕິ 
+  ຕາມການກຳນົດຂອງແຕ່ລະປະເທດ ໃຫ້ຫຼຸດລົງຢ່າງໜ້ອຍເຄິ່ງໜຶ່ງ</p>
+SDG_SERIES_DESCR: 
+  <p>ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ດຳລົງຊີວິດຕ່ຳກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ</p>
 SDG_RELATED_INDICATORS: '<p> ຕົວຊີ້ວັດ 1.1.1: ອັດຕາສ່ວນຂອງປະຊາກອນຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກສາກົນ,
   ໂດຍເພດ, ອາຍຸ, ສະຖານະພາບການຈ້າງງານ ແລະ ສະຖານທີ່ທາງພູມສາດ (ຕົວເມືອງ/ຊົນນະບົດ)</p>'
-SDG_INDICATOR: <p>1.2.1 ເປີເຊັນຂອງປະຊາກອນທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ,
+SDG_INDICATOR: <p>1.2.1 
+  ເປີເຊັນຂອງປະຊາກອນທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ, 
   ໂດຍເພດແລະອາຍຸ</p>
-SDG_GOAL: <p> ເປົ້າຫມາຍທີ 1. ສິ້ນສຸດຄວາມທຸກຍາກໃນທຸກຮູບແບບຂອງມັນຢູ່ທຸກຫົນທຸກແຫ່ງ</p>
-SDG_CUSTODIAN_AGENCIES: <p> ທະນາຄານໂລກ</p>
+SDG_GOAL: <p>ເປົ້າໝາຍ 1. ລົບລ້າງຄວາມທຸກຍາກທຸກຮູບແບບໃນທົ່ວທຸກແຫ່ງ</p>
+SDG_CUSTODIAN_AGENCIES: <p>ທະນາຄານໂລກ</p>
 REL_CAL_POLICY: <p> ຫນຶ່ງປີຫຼັງຈາກໄລຍະການອ້າງອີງ, ການປ່ອຍຕໍ່ໄປແມ່ນວັນທີ 2026</p>
-REG_AGG: <p> ນ/A</p>
-REC_USE_LIM: <p> Caveats ແລະ ຂໍ້ ຈໍາ ກັດ ທີ່ ມີ ຢູ່ ໃນ ການ ສໍາ ຫຼວດ ຂໍ້ ມູນ ນໍາ ໃຊ້.
+REG_AGG: <p>ບໍ່ມີ</p>
+REC_USE_LIM: <p> Caveats ແລະ ຂໍ້ ຈໍາ ກັດ ທີ່ ມີ ຢູ່ ໃນ ການ ສໍາ ຫຼວດ ຂໍ້ ມູນ ນໍາ 
+  ໃຊ້. </p>
+RATIONALE: 
+  <p>ການຕິດຕາມຄວາມທຸກຍາກລະດັບຊາດແມ່ນມີຄວາມສຳຄັນຕໍ່ວາລະການພັດທະນາສະເພາະຂອງປະເທດ. 
+  ເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດແມ່ນຖືກນຳໃຊ້ເພື່ອເຮັດໃຫ້ການຄາດຄະເນຄວາມທຸກຍາກມີຄວາມຊັດເຈນ
+  ແລະ ສອດຄ່ອງກັບສະພາບການທາງດ້ານເສດຖະກິດ ແລະ ສັງຄົມຂອງປະເທດ ແລະ 
+  ບໍ່ໄດ້ມີຈຸດປະສົງເພື່ອໃຊ້ປຽບທຽບອັດຕາຄວາມທຸກຍາກໃນລະດັບສາກົນ. </p>
+QUALITY_MGMNT: <p> 
+  ການບໍລິຫານຄຸນນະພາບຂອງຕົວຊີ້ວັດແມ່ນໄດ້ຮັບການຊີ້ນໍາໂດຍກົດຫມາຍວ່າດ້ວຍສະຖິຕິ Lao 
+  PDR ປີ 2017 ແລະ ສອດຄ່ອງກັບຄໍາແນະນໍາຂອງອົງການສະຫະປະຊາຊາດ FPOS. </p>
+QUALITY_ASSURE: <p> ຕະຫຼອດໄລຍະທົ່ງນາ, ໄດ້ມີການຜະລິດໂຕະກວດສອບສະຫນາມ (FCTs) 
+  ເພື່ອການວິເຄາະ ແລະ 
+  ດໍາເນີນການກັບທີມງານສະຫນາມແລະການຊີ້ນໍາໂດຍຜູ້ຄຸ້ມຄອງທັງໃນລະດັບລຸ່ມແລະລະດັບຊາດ. 
   </p>
-RATIONALE: <p> ການຕິດຕາມກວດກາຄວາມທຸກຍາກຂອງຊາດແມ່ນມີຄວາມສໍາຄັນສໍາລັບບັນດານະໂຍບາຍການພັດທະນາສະເພາະປະເທດ.
-  ເສັ້ນ ທາງ ຄວາມ ທຸກ ຍາກ ແຫ່ງ ຊາດ ຖືກ ນໍາ ໃຊ້ ເພື່ອ ເຮັດ ໃຫ້ ການ ປະ ເມີນ ຄວາມ ທຸກ
-  ຍາກ ທີ່ ສອດ ຄ່ອງ ກັບ ສະ ຖາ ນະ ການ ເສດ ຖະ ກິດ ແລະ ສັງ ຄົມ ສະ ເພາະ ຂອງ ປະ ເທດ ແລະ
-  ບໍ່ ມີ ຈຸດ ປະ ສົງ ເພື່ອ ປຽບ ທຽບ ກັບ ອັດຕາ ຄວາມ ທຸກ ຍາກ ຂອງ ນາໆ ຊາດ. </p>
-QUALITY_MGMNT: <p> ການບໍລິຫານຄຸນນະພາບຂອງຕົວຊີ້ວັດແມ່ນໄດ້ຮັບການຊີ້ນໍາໂດຍກົດຫມາຍວ່າດ້ວຍສະຖິຕິ
-  Lao PDR ປີ 2017 ແລະ ສອດຄ່ອງກັບຄໍາແນະນໍາຂອງອົງການສະຫະປະຊາຊາດ FPOS. </p>
-QUALITY_ASSURE: <p> ຕະຫຼອດໄລຍະທົ່ງນາ, ໄດ້ມີການຜະລິດໂຕະກວດສອບສະຫນາມ (FCTs) ເພື່ອການວິເຄາະ
-  ແລະ ດໍາເນີນການກັບທີມງານສະຫນາມແລະການຊີ້ນໍາໂດຍຜູ້ຄຸ້ມຄອງທັງໃນລະດັບລຸ່ມແລະລະດັບຊາດ.
-  </p>
-QUALITY_ASSMNT: <p> ໂດຍທົ່ວໄປ, ຄຸນນະພາບຂອງຜົນການສໍາຫຼວດແມ່ນຖືວ່າສູງເນື່ອງຈາກການຄຸ້ມຄອງຄຸນນະພາບ,
-  ການຮັບປະກັນຄຸນນະພາບແລະມາດຕະຖານທີ່ປະຕິບັດໄປພ້ອມກັບອັດຕາການຕອບສະຫນອງສູງສໍາລັບທຸກກຸ່ມ.
-  </p>
-OTHER_DOC: <p> ການສໍາຫຼວດລາຍຈ່າຍ ແລະ ການບໍລິໂພກຂອງ Lao, 2018/2019 <a href="https://laosis.lsb.gov.la/board/BoardList.do?bbs_bbsid=B404">https://laosis.lsb.gov.la/board/BoardList.do?bbs_bbsid=B404</a>
-  </p><p><p>The UNSD SDG Indicators, Metadata repository <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a>
+QUALITY_ASSMNT: <p>ໂດຍທົ່ວໄປ, ຄຸນນະພາບຂອງຜົນການສຳຫຼວດແມ່ນຖືວ່າຢູ່ໃນລະດັບສູງ 
+  ເນື່ອງຈາກມີການຄຸ້ມຄອງຄຸນນະພາບ, ການປະກັນຄຸນນະພາບ ແລະ 
+  ມາດຕະຖານທີ່ໄດ້ຈັດຕັ້ງປະຕິບັດ ພ້ອມກັບອັດຕາການຕອບແບບສອບຖາມທີ່ສູງໃນທຸກກຸ່ມ.</p>
+OTHER_DOC: <p> ການສໍາຫຼວດລາຍຈ່າຍ ແລະ ການບໍລິໂພກຂອງ Lao, 2018/2019 <a 
+  href="https://laosis.lsb.gov.la/board/BoardList.do?bbs_bbsid=B404">https://laosis.lsb.gov.la/board/BoardList.do?bbs_bbsid=B404</a>
+  </p><p><p>The UNSD SDG Indicators, Metadata repository <a 
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a>
   </p>
 ORGANISATION_UNIT: <p> ພະແນກສະຖິຕິສັງຄົມ</p>
 META_LAST_UPDATE: <p>24 ມິຖຸນາ 2021</p>
-INST_MANDATE: <p> ໂດຍອີງຕາມກົດຫມາຍວ່າດ້ວຍສະຖິຕິLao PDR ປີ 2010 ແລະ 2017, LSB ໄດ້ປະຕິບັດການສໍາຫຼວດສໍາມະໂນຄົວ
-  ແລະ ການສໍາຫຼວດຕົວຢ່າງຂອງຊາດ ແລະ ການສໍາຫຼວດສະເພາະອື່ນໆ ທີ່ໄດ້ກໍານົດໄວ້ໃນຍຸດທະສາດການພັດທະນາລະບົບສະຖິຕິແຫ່ງຊາດ
+INST_MANDATE: <p> ໂດຍອີງຕາມກົດຫມາຍວ່າດ້ວຍສະຖິຕິLao PDR ປີ 2010 ແລະ 2017, LSB 
+  ໄດ້ປະຕິບັດການສໍາຫຼວດສໍາມະໂນຄົວ ແລະ ການສໍາຫຼວດຕົວຢ່າງຂອງຊາດ ແລະ 
+  ການສໍາຫຼວດສະເພາະອື່ນໆ ທີ່ໄດ້ກໍານົດໄວ້ໃນຍຸດທະສາດການພັດທະນາລະບົບສະຖິຕິແຫ່ງຊາດ 
   (SDNSS) ໃນແຕ່ລະໄລຍະ. </p>
-FREQ_COLL: <p> ທຸກໆຫ້າປີ, ການເກັບສະສົມຄັ້ງຕໍ່ໄປຈະມີຂຶ້ນໃນເດືອນມິຖຸນາ 2024 ຫາ ເດືອນມິຖຸນາ
-  2025</p>
-DATA_VALIDATION: <p> ຂັ້ນ ຕອນ ການ ປຶກ ສາ ຫາ ລື ກັບ ບັນ ດາ ບໍ ລິ ການ ເສັ້ນ ທາງ ກ່ຽວ
-  ກັບ ຂໍ້ ມູນ ແຫ່ງ ຊາດ ທີ່ ສົ່ງ ມາ ໃຫ້ ຕົວ ຊີ້ ວັດ SDGs ໄດ້ ດໍາ ເນີນ ໄປ ກ່ອນ ການ ພິມ
-  ຜົນ ໄດ້ ຮັບ. </p> <p> ເຊັ່ນດຽວກັນ, ການເກັບກໍາຂໍ້ມູນ, ການທົບທວນ, ການຢັ້ງຢືນ, ການຄຸ້ມຄອງ
-  ແລະ ການເຜີຍແຜ່ໄດ້ຖືກຊີ້ນໍາໂດຍກົດຫມາຍວ່າດ້ວຍສະຖິຕິ Lao PDR ປີ 2017 ແລະ ສອດຄ່ອງກັບຫຼັກການພື້ນຖານຂອງອົງການສະຫະປະຊາຊາດຂອງສະຖິຕິທາງການ
+FREQ_COLL: <p> ທຸກໆຫ້າປີ, ການເກັບສະສົມຄັ້ງຕໍ່ໄປຈະມີຂຶ້ນໃນເດືອນມິຖຸນາ 2024 ຫາ 
+  ເດືອນມິຖຸນາ 2025</p>
+DATA_VALIDATION: <p> ຂັ້ນ ຕອນ ການ ປຶກ ສາ ຫາ ລື ກັບ ບັນ ດາ ບໍ ລິ ການ ເສັ້ນ ທາງ 
+  ກ່ຽວ ກັບ ຂໍ້ ມູນ ແຫ່ງ ຊາດ ທີ່ ສົ່ງ ມາ ໃຫ້ ຕົວ ຊີ້ ວັດ SDGs ໄດ້ ດໍາ ເນີນ ໄປ 
+  ກ່ອນ ການ ພິມ ຜົນ ໄດ້ ຮັບ. </p> <p> ເຊັ່ນດຽວກັນ, ການເກັບກໍາຂໍ້ມູນ, ການທົບທວນ, 
+  ການຢັ້ງຢືນ, ການຄຸ້ມຄອງ ແລະ ການເຜີຍແຜ່ໄດ້ຖືກຊີ້ນໍາໂດຍກົດຫມາຍວ່າດ້ວຍສະຖິຕິ Lao 
+  PDR ປີ 2017 ແລະ ສອດຄ່ອງກັບຫຼັກການພື້ນຖານຂອງອົງການສະຫະປະຊາຊາດຂອງສະຖິຕິທາງການ 
   (FPOS). </p> <p> ລາຍລະອຽດໃນຫນັງສືສະບັບສຸດທ້າຍ.  </p>
 DATA_SOURCE: <p> Lao Statistics Bureau</p>
-DATA_COMP: <p> <img src="data:image/png;base64,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"/>
-  </p> <p> ບ່ອນທີ່ <em>I</em> (.) ແມ່ນຫນ້າທີ່ຕົວຊີ້ວັດທີ່ໃຊ້ເວລາໃນມູນຄ່າ 1 ຖ້າການສະແດງອອກbracketed
-  ແມ່ນຄວາມຈິງແລະ 0, ຖ້າບໍ່ດັ່ງນັ້ນ. ຖ້າການບໍລິໂພກຫຼືລາຍຮັບຂອງບຸກຄົນ y<sub>i</sub>
-  ແມ່ນຫນ້ອຍກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ <em>z</em> (ຕົວຢ່າງ, ໃນ ຄໍາ ເວົ້າ ທີ່ ແນ່ນອນ
-  ວ່າ ແຖວ ອາດ ເປັນ ລາຄາ ຂອງ ການ ບໍລິ ໂພ ກ ຫຼື ໃນ ດ້ານ ຫນຶ່ງ ເປີ ເຊັນ ຂອງ ການ ແຈກ ຢາຍ
-  ລາຍ ໄດ້), ແລ້ວ<em> I</em> (.) ແມ່ນ ເທົ່າ ກັບ 1 ແລະ ບຸກຄົນ ນັ້ນ ຖືກ ນັບ ວ່າ ເປັນ
-  ຄົນ ທຸກ ຍາກ. N<sub>p</sub> ແມ່ນຈໍານວນທັງຫມົດ, ຕົວເມືອງຫຼືຊົນນະບົດຂອງຄົນທຸກຍາກ. <em>
-  N</em> ແມ່ນປະຊາກອນທັງຫມົດ, ຕົວເມືອງ ຫຼື ຊົນນະບົດ. </p> <p> ອັດຕາຄວາມທຸກຍາກຂອງຊາດໃຊ້ເສັ້ນຄວາມທຸກຍາກສະເພາະປະເທດ,
+DATA_COMP: <p> <img 
+  src="data:image/png;base64,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"/>
+  </p> <p> ບ່ອນທີ່ <em>I</em> (.) ແມ່ນຫນ້າທີ່ຕົວຊີ້ວັດທີ່ໃຊ້ເວລາໃນມູນຄ່າ 1 
+  ຖ້າການສະແດງອອກbracketed ແມ່ນຄວາມຈິງແລະ 0, ຖ້າບໍ່ດັ່ງນັ້ນ. 
+  ຖ້າການບໍລິໂພກຫຼືລາຍຮັບຂອງບຸກຄົນ y<sub>i</sub> 
+  ແມ່ນຫນ້ອຍກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ <em>z</em> (ຕົວຢ່າງ, ໃນ ຄໍາ ເວົ້າ ທີ່ 
+  ແນ່ນອນ ວ່າ ແຖວ ອາດ ເປັນ ລາຄາ ຂອງ ການ ບໍລິ ໂພ ກ ຫຼື ໃນ ດ້ານ ຫນຶ່ງ ເປີ ເຊັນ ຂອງ 
+  ການ ແຈກ ຢາຍ ລາຍ ໄດ້), ແລ້ວ<em> I</em> (.) ແມ່ນ ເທົ່າ ກັບ 1 ແລະ ບຸກຄົນ ນັ້ນ ຖືກ
+  ນັບ ວ່າ ເປັນ ຄົນ ທຸກ ຍາກ. N<sub>p</sub> ແມ່ນຈໍານວນທັງຫມົດ, 
+  ຕົວເມືອງຫຼືຊົນນະບົດຂອງຄົນທຸກຍາກ. <em> N</em> ແມ່ນປະຊາກອນທັງຫມົດ, ຕົວເມືອງ ຫຼື 
+  ຊົນນະບົດ. </p> <p> ອັດຕາຄວາມທຸກຍາກຂອງຊາດໃຊ້ເສັ້ນຄວາມທຸກຍາກສະເພາະປະເທດ, 
   ສະທ້ອນໃຫ້ເຫັນສະພາບການເສດຖະກິດ-ສັງຄົມຂອງປະເທດ. </p>
-COVERAGE: <p> LECS ໄດ້ດໍາ ເນີນ ມາ ເປັນ ເວ ລາ ຫ້າ ປີ ນັບ ແຕ່ ປີ 1992/1993. ຂໍ້ມູນມີຕັ້ງແຕ່ປີ
-  1992/1993 ຫາ 2018/2019. </p> <p> Disສັງລວມໂດຍກຸ່ມຊົນນະບົດແລະເມືອງ, ເພດແລະອາຍຸ</p>
+COVERAGE: <p> LECS ໄດ້ດໍາ ເນີນ ມາ ເປັນ ເວ ລາ ຫ້າ ປີ ນັບ ແຕ່ ປີ 1992/1993. 
+  ຂໍ້ມູນມີຕັ້ງແຕ່ປີ 1992/1993 ຫາ 2018/2019. </p> <p> 
+  Disສັງລວມໂດຍກຸ່ມຊົນນະບົດແລະເມືອງ, ເພດແລະອາຍຸ</p>
 CONTACT_PHONE: <p>+856 20 55 795 043; +856 21 214 740</p>
-CONTACT_ORGANISATION: <p> Lao Statistics Bureau</p>
+CONTACT_ORGANISATION: <p>ສູນສະຖິຕິແຫ່ງຊາດ</p>
 CONTACT_NAME: <p> Mr.Vilaysook SISOULATH</p>
 CONTACT_MAIL: <p> ນ/A</p>
 CONTACT_FUNCT: <p> ຮອງຜູ້ອໍານວຍການໃຫຍ່</p>
-CONTACT_EMAIL: <p> <a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a>;
-  <a href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a>; <a href="https://www.lsb.gov.la">https://www.lsb.gov.la</a>
-  </p>
+CONTACT_EMAIL: <p> <a 
+  href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a>; <a 
+  href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a>; <a 
+  href="https://www.lsb.gov.la">https://www.lsb.gov.la</a> </p>
 COMPILING_ORG: <p> Lao Statistics Bureau ຮ່ວມມືກັບທະນາຄານໂລກ</p>
 COMPARABILITY: <p>ວິທີດຽວກັນກັບຕົວຊີ້ວັດທົ່ວໂລກ</p>
 COLL_METHOD: '<p> ງານLECS 2018-2019 ເປັນຮອບທີຫົກ ແລະ ຫຼ້າສຸດທີ່ດໍາເນີນໃນ Lao PDR.
