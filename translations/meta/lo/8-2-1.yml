@@ -16,17 +16,19 @@ STAT_CONC_DEF: '<p> <strong> ນິຍາມ:</strong></p><p><p>ອັດຕາ�
   </p>'
 SOURCE_TYPE: '<p> Numerator: ຂໍ້ມູນດ້ານການບໍລິຫານຈາກLao Statistics Bureau</p><p>Denominator:
   The Labor Force Survey 2017</p>'
-SDG_TARGET: <p>8.2 ບັນລຸຜົນຜະລິດທາງດ້ານເສດຖະກິດທີ່ສູງຂຶ້ນໂດຍຜ່ານການສ້າງຄວາມຫຼາກຫຼາຍ,
-  ການຍົກລະດັບເຕັກໂນໂລຊີ ແລະ ການປະດິດສ້າງ, ລວມທັງຜ່ານການສຸມໃສ່ຂະແຫນງທີ່ມີມູນຄ່າສູງ
-  ແລະ ຂະແຫນງແຮງງານ. </p>
+SDG_TARGET: <p>8.2 
+  ບັນລຸຜົນຜະລິດທາງດ້ານເສດຖະກິດທີ່ສູງຂຶ້ນໂດຍຜ່ານການສ້າງຄວາມຫຼາກຫຼາຍ, 
+  ການຍົກລະດັບເຕັກໂນໂລຊີ ແລະ ການປະດິດສ້າງ, 
+  ລວມທັງຜ່ານການສຸມໃສ່ຂະແຫນງທີ່ມີມູນຄ່າສູງ ແລະ ຂະແຫນງແຮງງານ. </p>
 SDG_SERIES_DESCR: <p> SL_EMP_PCAP</p>
 SDG_RELATED_INDICATORS: <p> ນ/A</p>
-SDG_INDICATOR: <p>8.2.1 ເປີເຊັນຂອງການເຕີບໂຕຂອງຜົນຜະລິດແຮງງານ (GDP/per person employed)</p>
+SDG_INDICATOR: <p>8.2.1 ເປີເຊັນຂອງການເຕີບໂຕຂອງຜົນຜະລິດແຮງງານ (GDP/per person 
+  employed)</p>
 SDG_GOAL: '<p> SDG 8: ວຽກງານທີ່ເຫມາະສົມ ແລະ ການເຕີບໂຕທາງດ້ານເສດຖະກິດ: ສົ່ງເສີມການເຕີບໂຕທາງດ້ານເສດຖະກິດແບບຍືນຍົງ,
   ລວມແລະຍືນຍົງ, ມີວຽກເຮັດງານທໍາຢ່າງເຕັມທີ່ ແລະ ມີປະສິດທິຜົນ ແລະ ວຽກງານທີ່ເຫມາະສົມສໍາລັບທຸກຄົນ</p>'
 SDG_CUSTODIAN_AGENCIES: <p> ILO</p>
 REL_CAL_POLICY: <p>2022</p>
-REG_AGG: <p> ນ/A</p>
+REG_AGG: <p>ບໍ່ມີ</p>
 REC_USE_LIM: '<p> ມາດຕະການຜົນຜະລິດແມ່ນໄດ້ຮັບຈາກບັນຊີແຫ່ງຊາດແລະເປັນຕົວແທນ, ຫຼາຍເທົ່າທີ່ຈະຫຼາຍໄດ້,
   GDP ໃນລາຄາຕະຫຼາດສໍາລັບເສດຖະກິດລວມ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ເຖິງແມ່ນວ່າຈະມີຫຼັກການທົ່ວໄປທີ່ສ່ວນໃຫຍ່ແມ່ນອີງໃສ່ລະບົບອົງການສະຫະປະຊາຊາດຂອງບັນຊີແຫ່ງຊາດ,
   ແຕ່ຍັງມີບັນຫາສໍາຄັນໃນຄວາມສອດຄ່ອງກັບລະດັບສາກົນຂອງການຄາດຄະເນບັນຊີແຫ່ງຊາດ, ອີງຕາມປັດໄຈຕ່າງໆເຊັ່ນ:
@@ -40,32 +42,36 @@ REC_USE_LIM: '<p> ມາດຕະການຜົນຜະລິດແມ່ນ�
 QUALITY_MGMNT: <p> ນ/A</p>
 QUALITY_ASSURE: <p> ນ/A</p>
 QUALITY_ASSMNT: <p> ນ/A</p>
-OTHER_DOC: <ol> <li> <a href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf</a></li><li>https://unstats.un.org/sdgs/metadata/</li></ol>
+OTHER_DOC: <ol> <li> <a 
+  href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf</a></li><li>https://unstats.un.org/sdgs/metadata/</li></ol>
 ORGANISATION_UNIT: <p> ພະແນກສະຖິຕິສັງຄົມ</p>
 META_LAST_UPDATE: <p>1 ພຶດສະພາ 2021</p>
-INST_MANDATE: <p> ບົນພື້ນຖານກົດຫມາຍສະຖິຕິ ແລະ ຍຸດທະສາດແຫ່ງຊາດ ເພື່ອການພັດທະນາລະບົບສະຖິຕິແບບຍືນຍົງ
-  2016-2020 ແລະ ວິໄສທັດສໍາລັບປີ 2030, ກະຊວງແຜນການ ແລະ ການລົງທຶນ (MPI) ທົ່ວກົມສະຖິຕິLao
-  ໃນການຮ່ວມມືກັບກະຊວງແຮງງານ ແລະ ສະຫວັດດີການ ໄດ້ດໍາເນີນການສໍາຫຼວດກໍາລັງແຮງງານລາວ ໃນປີ
-  2017. </p>
+INST_MANDATE: <p> ບົນພື້ນຖານກົດຫມາຍສະຖິຕິ ແລະ ຍຸດທະສາດແຫ່ງຊາດ 
+  ເພື່ອການພັດທະນາລະບົບສະຖິຕິແບບຍືນຍົງ 2016-2020 ແລະ ວິໄສທັດສໍາລັບປີ 2030, 
+  ກະຊວງແຜນການ ແລະ ການລົງທຶນ (MPI) ທົ່ວກົມສະຖິຕິLao ໃນການຮ່ວມມືກັບກະຊວງແຮງງານ ແລະ
+  ສະຫວັດດີການ ໄດ້ດໍາເນີນການສໍາຫຼວດກໍາລັງແຮງງານລາວ ໃນປີ 2017. </p>
 IMPUTATION: <p> ນ/A</p>
 FREQ_COLL: <p>2021</p>
 DOC_METHOD: <p> ນ/A</p>
 DATA_VALIDATION: <p> ນ/A</p>
 DATA_SOURCE: <p> Lao Statistics Bureau</p>
-DATA_COMP: <p> GDP ຕົວຈິງຕໍ່ຄົນທີ່ມີວຽກເຮັດງານທໍາ= (GDP ໃນລາຄາທີ່ສະຫມ່ໍາສະເຫມີ )/(Total
+DATA_COMP: <p> GDP ຕົວຈິງຕໍ່ຄົນທີ່ມີວຽກເຮັດງານທໍາ= (GDP ໃນລາຄາທີ່ສະຫມ່ໍາສະເຫມີ 
+  )/(Total 
   employment)</p><p><p>ຕົວເລກແລະນິຕິບຸກຄົນຂອງສະສົມຂ້າງເທິງຄວນຈະອ້າງເຖິງໄລຍະອ້າງອີງດຽວກັນ,
-  ຕົວຢ່າງ, ປີປະຕິທິນດຽວກັນ. </p> <p> ຖ້າເຮົາເອີ້ນ GDP ຕົວຈິງຕໍ່ຄົນທີ່ຈ້າງງານວ່າ "LabProd",
-  ແລ້ວອັດຕາການເຕີບໂຕປະຈໍາປີຂອງ GDP ຕົວຈິງຕໍ່ຄົນທີ່ມີວຽກເຮັດງານທໍາແມ່ນຄິດໄລ່ເປັນດັ່ງນີ້:</p><p><p>ອັດຕາການເຕີບໂຕຂອງ
-  GDP ຕົວຈິງຕໍ່ຄົນທີ່ມີວຽກເຮັດງານທໍາ= ((LabProd in year n) – (LabProd in year n-1)))/(LabProd
-  in year n-1)) ×100</p>
-COVERAGE: <p> ການສໍາຫຼວດກໍາລັງແຮງງານໄດ້ຖືກດໍາເນີນໃນໄລຍະຫ້າປີນັບຕັ້ງແຕ່ປີ 2010</p><p>ບໍ່ມີການຕັດສີນໃຈທີ່ຈໍາເປັນສໍາລັບຕົວຊີ້ວັດນີ້.
-  </p>
+  ຕົວຢ່າງ, ປີປະຕິທິນດຽວກັນ. </p> <p> ຖ້າເຮົາເອີ້ນ GDP ຕົວຈິງຕໍ່ຄົນທີ່ຈ້າງງານວ່າ 
+  "LabProd", ແລ້ວອັດຕາການເຕີບໂຕປະຈໍາປີຂອງ GDP 
+  ຕົວຈິງຕໍ່ຄົນທີ່ມີວຽກເຮັດງານທໍາແມ່ນຄິດໄລ່ເປັນດັ່ງນີ້:</p><p><p>ອັດຕາການເຕີບໂຕຂອງ
+  GDP ຕົວຈິງຕໍ່ຄົນທີ່ມີວຽກເຮັດງານທໍາ= ((LabProd in year n) – (LabProd in year 
+  n-1)))/(LabProd in year n-1)) ×100</p>
+COVERAGE: <p> ການສໍາຫຼວດກໍາລັງແຮງງານໄດ້ຖືກດໍາເນີນໃນໄລຍະຫ້າປີນັບຕັ້ງແຕ່ປີ 
+  2010</p><p>ບໍ່ມີການຕັດສີນໃຈທີ່ຈໍາເປັນສໍາລັບຕົວຊີ້ວັດນີ້. </p>
 CONTACT_PHONE: <p>+856 20 55 795 043</p><p>+856 21 214 740</p>
-CONTACT_ORGANISATION: <p> Lao Statistics Bureau</p>
+CONTACT_ORGANISATION: <p>ສູນສະຖິຕິແຫ່ງຊາດ</p>
 CONTACT_NAME: <p> Mr.Vilaysook SISOULATH</p>
 CONTACT_MAIL: <p> ນ/A</p>
 CONTACT_FUNCT: <p> ຮອງຜູ້ອໍານວຍການໃຫຍ່</p>
-CONTACT_EMAIL: <p> <a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a
+CONTACT_EMAIL: <p> <a 
+  href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a 
   href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p><p>https://www.lsb.gov.la</p>
 COMPILING_ORG: <p> Lao Statistics Bureau</p>
 COMPARABILITY: <p> ນ/A</p>
