@@ -24,48 +24,64 @@ STAT_CONC_DEF: '<p> <strong> ນິຍາມ:</strong></p><p><p>ອັດຕາ�
   ການຈ້າງງານ ແລະ ການບໍ່ໃຊ້ແຮງງານທີ່ຖືກຮັບຮອງເອົາໂດຍ ກອງປະຊຸມສະຖິຕິແຮງງານສາກົນ 19<sup>th</sup>
   ກອງປະຊຸມສາກົນຂອງນັກສະຖິຕິແຮງງານ. </p>'
 SOURCE_TYPE: <p> ການສໍາຫຼວດກໍາລັງແຮງງານ 2017</p>
-SDG_TARGET: <p>8.5 ຮອດປີ 2030, ບັນລຸການຈ້າງງານຢ່າງເຕັມທີ່ ແລະ ມີປະສິດທິຜົນ ແລະ ວຽກງານທີ່ເຫມາະສົມສໍາລັບແມ່ຍິງແລະຊາຍທຸກຄົນ,
-  ລວມທັງສໍາລັບໄວຫນຸ່ມແລະບຸກຄົນທີ່ມີຄວາມພິການ, ແລະຄ່າຈ້າງເທົ່າທຽມກັນສໍາລັບການເຮັດວຽກທີ່ມີຄຸນຄ່າເທົ່າທຽມກັນ.
-  </p>
+SDG_TARGET: <p>8.5 ຮອດປີ 2030, ບັນລຸການຈ້າງງານຢ່າງເຕັມທີ່ ແລະ ມີປະສິດທິຜົນ ແລະ 
+  ວຽກງານທີ່ເຫມາະສົມສໍາລັບແມ່ຍິງແລະຊາຍທຸກຄົນ, 
+  ລວມທັງສໍາລັບໄວຫນຸ່ມແລະບຸກຄົນທີ່ມີຄວາມພິການ, 
+  ແລະຄ່າຈ້າງເທົ່າທຽມກັນສໍາລັບການເຮັດວຽກທີ່ມີຄຸນຄ່າເທົ່າທຽມກັນ. </p>
 SDG_SERIES_DESCR: <p> ອັດຕາການຫວ່າງງານ</p>
-SDG_RELATED_INDICATORS: <p> ສະຖິຕິເສດຖະກິດໃດທີ່ໃຊ້ສໍາລັບຕົວຊີ້ວັດ ອື່ນໆ ຂອງ SDG </p>
+SDG_RELATED_INDICATORS: <p> ສະຖິຕິເສດຖະກິດໃດທີ່ໃຊ້ສໍາລັບຕົວຊີ້ວັດ ອື່ນໆ ຂອງ SDG 
+  </p>
 SDG_INDICATOR: '<p>8.5.2 ອັດຕາການຫວ່າງງານໂດຍເພດ</p>'
 SDG_GOAL: '<p> SDG 8: ວຽກງານທີ່ເຫມາະສົມ ແລະ ການເຕີບໂຕທາງດ້ານເສດຖະກິດ: ສົ່ງເສີມການເຕີບໂຕທາງດ້ານເສດຖະກິດແບບຍືນຍົງ,
   ລວມແລະຍືນຍົງ, ມີວຽກເຮັດງານທໍາຢ່າງເຕັມທີ່ ແລະ ມີປະສິດທິຜົນ ແລະ ວຽກງານທີ່ເຫມາະສົມສໍາລັບທຸກຄົນ</p>'
 SDG_CUSTODIAN_AGENCIES: <p> ILO</p>
 REL_CAL_POLICY: <p> ຫົກເດືອນຫຼັງຈາກປີອ້າງອີງ, ການປ່ອຍຕໍ່ໄປແມ່ນວັນທີ 2022</p>
-REC_USE_LIM: <p> Caveats ແລະ ຂໍ້ ຈໍາ ກັດ ທີ່ ມີ ຢູ່ ໃນ ການ ປະ ເມີນ ອີງ ຕາມ ບັນ ຊີ
-  ປະ ເທດ ແລະ ຂໍ້ ມູນ ການ ສໍາ ຫຼວດ ນໍາ ໃຊ້. </p>
-RATIONALE: <p> ອັດຕາການຫວ່າງງານແມ່ນການວັດແທກທີ່ເປັນປະໂຫຍດຂອງການຂາດເຂີນການສະຫນອງແຮງງານ.
+REC_USE_LIM: <p> Caveats ແລະ ຂໍ້ ຈໍາ ກັດ ທີ່ ມີ ຢູ່ ໃນ ການ ປະ ເມີນ ອີງ ຕາມ ບັນ 
+  ຊີ ປະ ເທດ ແລະ ຂໍ້ ມູນ ການ ສໍາ ຫຼວດ ນໍາ ໃຊ້. </p>
+RATIONALE: <p> 
+  ອັດຕາການຫວ່າງງານແມ່ນການວັດແທກທີ່ເປັນປະໂຫຍດຂອງການຂາດເຂີນການສະຫນອງແຮງງານ. 
   ມັນສະທ້ອນໃຫ້ເຫັນເຖິງຄວາມບໍ່ສາມາດຂອງເສດຖະກິດທີ່ຈະສ້າງວຽກເຮັດງານທໍາໃຫ້ແກ່ຜູ້ທີ່ຕ້ອງການເຮັດວຽກແຕ່ບໍ່ໄດ້ເຮັດເຊັ່ນນັ້ນ,
-  ເຖິງແມ່ນວ່າພວກເຂົາຈະມີວຽກເຮັດງານທໍາແລະຊອກຫາວຽກເຮັດງານທໍາຢ່າງຫ້າວຫັນ. ດັ່ງ ນັ້ນ ຈຶ່ງ
-  ເຫັນ ວ່າ ເປັນ ຕົວ ຊີ້ ວັດ ເຖິງ ປະ ສິດ ທິ ພາບ ແລະ ປະ ສິດ ທິ ຜົນ ຂອງ ເສດ ຖະ ກິດ ເພື່ອ
-  ດູດ ຊຶມ ກໍາ ລັງ ແຮງ ງານ ຂອງ ຕົນ ແລະ ການ ປະ ຕິ ບັດ ງານ ຂອງ ຕະ ຫຼາດ ແຮງ ງານ. ໄລຍະສັ້ນຂອງອັດຕາການຫວ່າງງານສາມາດນໍາໃຊ້ເພື່ອສັນຍານການປ່ຽນແປງໃນວົງຈອນທຸລະກິດ;
-  ການ ເຄື່ອນ ໄຫວ ຂຶ້ນ ໃນ ຕົວ ຊີ້ ວັດ ມັກ ຈະ ຄຽງ ຄູ່ ກັບ ໄລຍະ ທີ່ ມີ ຄວາມ ຫຍຸ້ງຍາກ
-  ຫຼື ໃນ ບາງ ກໍລະນີ ກັບ ການ ເລີ່ມ ຕົ້ນ ຂອງ ໄລຍະ ການ ຂະຫຍາຍຕົວ ໃນ ຂະນະ ທີ່ ບຸກຄົນ ທີ່
-  ຜ່ານ ມາ ບໍ່ ໄດ້ ຢູ່ ໃນ ຕະຫລາດ ແຮງ ງານ ເລີ່ມ ທົດ ສອບ ເງື່ອນ ໄຂ ຜ່ານ ການ ຊອກ ຫາ ວຽກ
-  ເຮັດ ງານ ທໍາ ຢ່າງ ເຂັ້ມ ງວດ. </p>
-QUALITY_MGMNT: <p> ການບໍລິຫານຄຸນນະພາບຂອງຕົວຊີ້ວັດແມ່ນໄດ້ຮັບການຊີ້ນໍາໂດຍກົດຫມາຍວ່າດ້ວຍສະຖິຕິLao
-  PDR ປີ 2017 ແລະ ສອດຄ່ອງກັບຄໍາແນະນໍາຂອງຫຼັກການພື້ນຖານຂອງອົງການສະຫະປະຊາຊາດຂອງສະຖິຕິທາງການ.
-  </p>
+  ເຖິງແມ່ນວ່າພວກເຂົາຈະມີວຽກເຮັດງານທໍາແລະຊອກຫາວຽກເຮັດງານທໍາຢ່າງຫ້າວຫັນ. ດັ່ງ ນັ້ນ
+  ຈຶ່ງ ເຫັນ ວ່າ ເປັນ ຕົວ ຊີ້ ວັດ ເຖິງ ປະ ສິດ ທິ ພາບ ແລະ ປະ ສິດ ທິ ຜົນ ຂອງ ເສດ ຖະ
+  ກິດ ເພື່ອ ດູດ ຊຶມ ກໍາ ລັງ ແຮງ ງານ ຂອງ ຕົນ ແລະ ການ ປະ ຕິ ບັດ ງານ ຂອງ ຕະ ຫຼາດ 
+  ແຮງ ງານ. 
+  ໄລຍະສັ້ນຂອງອັດຕາການຫວ່າງງານສາມາດນໍາໃຊ້ເພື່ອສັນຍານການປ່ຽນແປງໃນວົງຈອນທຸລະກິດ; 
+  ການ ເຄື່ອນ ໄຫວ ຂຶ້ນ ໃນ ຕົວ ຊີ້ ວັດ ມັກ ຈະ ຄຽງ ຄູ່ ກັບ ໄລຍະ ທີ່ ມີ ຄວາມ 
+  ຫຍຸ້ງຍາກ ຫຼື ໃນ ບາງ ກໍລະນີ ກັບ ການ ເລີ່ມ ຕົ້ນ ຂອງ ໄລຍະ ການ ຂະຫຍາຍຕົວ ໃນ ຂະນະ 
+  ທີ່ ບຸກຄົນ ທີ່ ຜ່ານ ມາ ບໍ່ ໄດ້ ຢູ່ ໃນ ຕະຫລາດ ແຮງ ງານ ເລີ່ມ ທົດ ສອບ ເງື່ອນ ໄຂ 
+  ຜ່ານ ການ ຊອກ ຫາ ວຽກ ເຮັດ ງານ ທໍາ ຢ່າງ ເຂັ້ມ ງວດ. </p>
+QUALITY_MGMNT: <p> 
+  ການບໍລິຫານຄຸນນະພາບຂອງຕົວຊີ້ວັດແມ່ນໄດ້ຮັບການຊີ້ນໍາໂດຍກົດຫມາຍວ່າດ້ວຍສະຖິຕິLao 
+  PDR ປີ 2017 ແລະ 
+  ສອດຄ່ອງກັບຄໍາແນະນໍາຂອງຫຼັກການພື້ນຖານຂອງອົງການສະຫະປະຊາຊາດຂອງສະຖິຕິທາງການ. </p>
 QUALITY_ASSURE: <p> ຂໍ້ມູນໄດ້ຮັບການຢັ້ງຢືນຕາມມາດຕະຖານສະຖິຕິສາກົນ</p>
-QUALITY_ASSMNT: <p> ການຄາດຄະເນທີ່ໄດ້ມາໃນແຕ່ລະປີແມ່ນທຽບໃສ່ປີຜ່ານມາເພື່ອໃຫ້ແນ່ໃຈວ່າການຄາດຄະເນໄດ້ຖືກກະກຽມຢ່າງສະຫມໍ່າສະເຫມີຈາກປີຕໍ່ປີ.
-  ນອກຈາກນັ້ນ, ອັດຕາການເຕີບໂຕຈາກປີຕໍ່ປີແມ່ນຖືກວິເຄາະເພື່ອລະບຸຄວາມຜິດປົກກະຕິໃນຂໍ້ມູນ.
-  </p> <p> ໂດຍທົ່ວໄປ, ຄຸນນະພາບຂອງຜົນໄດ້ຮັບແມ່ນຖືວ່າດີເນື່ອງຈາກການຄຸ້ມຄອງຄຸນນະພາບແລະມາດຕະຖານທີ່ນໍາໃຊ້ໃນແຫຼ່ງຂໍ້ມູນພື້ນຖານທີ່ໃຊ້ສໍາລັບການໄດ້ຮັບມູນຄ່າສໍາລັບຕົວຊີ້ວັດ
+QUALITY_ASSMNT: <p> 
+  ການຄາດຄະເນທີ່ໄດ້ມາໃນແຕ່ລະປີແມ່ນທຽບໃສ່ປີຜ່ານມາເພື່ອໃຫ້ແນ່ໃຈວ່າການຄາດຄະເນໄດ້ຖືກກະກຽມຢ່າງສະຫມໍ່າສະເຫມີຈາກປີຕໍ່ປີ.
+  ນອກຈາກນັ້ນ, 
+  ອັດຕາການເຕີບໂຕຈາກປີຕໍ່ປີແມ່ນຖືກວິເຄາະເພື່ອລະບຸຄວາມຜິດປົກກະຕິໃນຂໍ້ມູນ. </p> <p>
+  ໂດຍທົ່ວໄປ, 
+  ຄຸນນະພາບຂອງຜົນໄດ້ຮັບແມ່ນຖືວ່າດີເນື່ອງຈາກການຄຸ້ມຄອງຄຸນນະພາບແລະມາດຕະຖານທີ່ນໍາໃຊ້ໃນແຫຼ່ງຂໍ້ມູນພື້ນຖານທີ່ໃຊ້ສໍາລັບການໄດ້ຮັບມູນຄ່າສໍາລັບຕົວຊີ້ວັດ
   SDG ນີ້. </p>
-OTHER_DOC: <p> <a href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf</a></p><p><p></p><a
+OTHER_DOC: <p> <a 
+  href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf</a></p><p><p></p><a
   href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><u>https://laosis.lsb.gov.la/tblInfo/TblInfoList.do</u></a></p></p><p><p><p><a
-  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><u></u></a></p></p><p><p><p><p><p><p><p><p></p><a
-  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a
-  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><u></u><p><a href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a
-  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><u></u>[X357X
-  2017<br/><a href="https://www.lsb.gov.la"><u>https://www.lsb.gov.la</a></a>[X475X
+  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a 
+  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><u></u></a></p></p><p><p><p><p><p><p><p><p></p><a
+  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a 
+  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a 
+  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><u></u><p><a 
+  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a 
+  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><a 
+  href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do"><u></u>[X357X 
+  2017<br/><a 
+  href="https://www.lsb.gov.la"><u>https://www.lsb.gov.la</a></a>[X475X 
   https://unstats.un.org/sdgs/metadata/]<p><p><p><p><p>[ X615X]</p>
 ORGANISATION_UNIT: <p> ພະແນກສະຖິຕິສັງຄົມ</p>
 META_LAST_UPDATE: <p>23 May 2021</p>
-INST_MANDATE: <p> ການເກັບກໍາຂໍ້ມູນ, ການແປຮູບ, ການເຜີຍແຜ່ ແລະ ນໍາໃຊ້ສະຖິຕິສໍາລັບຕົວຊີ້ວັດນີ້
-  ແມ່ນສອດຄ່ອງກັບກົດຫມາຍສະຖິຕິ ປີ 2017; ຍຸດທະສາດແຫ່ງຊາດ ເພື່ອການພັດທະນາລະບົບສະຖິຕິແບບຍືນຍົງ
-  (NSSDSS) 2016-2020; ແລະ ວິໄສທັດສໍາລັບປີ 2030. </p>
+INST_MANDATE: <p> ການເກັບກໍາຂໍ້ມູນ, ການແປຮູບ, ການເຜີຍແຜ່ ແລະ 
+  ນໍາໃຊ້ສະຖິຕິສໍາລັບຕົວຊີ້ວັດນີ້ ແມ່ນສອດຄ່ອງກັບກົດຫມາຍສະຖິຕິ ປີ 2017; 
+  ຍຸດທະສາດແຫ່ງຊາດ ເພື່ອການພັດທະນາລະບົບສະຖິຕິແບບຍືນຍົງ (NSSDSS) 2016-2020; ແລະ 
+  ວິໄສທັດສໍາລັບປີ 2030. </p>
 FREQ_COLL: <p> ເດືອນທັນວາຂອງແຕ່ລະປີ, ການເກັບກໍາຂໍ້ມູນຕໍ່ໄປແມ່ນວັນທີ 2021</p>
 DOC_METHOD: '<ul> <li> GDP: ສະຖິຕິບັນຊີແຫ່ງຊາດ: ສັງລວມຫຼັກ ແລະ ຕາຕະລາງລະອຽດ, 2019
   ເບິ່ງ <a href="https://unstats.un.org/unsd/nationalaccount/pubsDB.asp?pType=3">
@@ -81,19 +97,21 @@ DOC_METHOD: '<ul> <li> GDP: ສະຖິຕິບັນຊີແຫ່ງຊາ�
   </u><a href="https://unstats.un.org/unsd/publication/seriesM/Series_M67rev3en.pdf"><a
   href="https://unstats.un.org/unsd/publication/seriesM/Series_M67rev3en.pdf"><u>https://unstats.un.org/unsd/publication/seriesM/Series_M67rev3en.pdf</u></u></a></p>
   </p> </u> </u> </u> </u> </u> </u> </u> </u> </u> </u> </u> </u> </u> </u> ['
-DATA_VALIDATION: <p> ການທົບທວນຂໍ້ມູນມາດຕະຖານ ແລະ ໂປຣໂມຊັ່ນການຢັ້ງຢືນໄດ້ຖືກນໍາໃຊ້ຈາກການເກັບກໍາຂໍ້ມູນ,
-  ການແປຮູບ, ການຄິດໄລ່ຈົນຈົບແລະການພິມຜົນຂອງGDP ແລະ ການຄາດຄະເນປະຊາກອນ. </p>
+DATA_VALIDATION: <p> ການທົບທວນຂໍ້ມູນມາດຕະຖານ ແລະ 
+  ໂປຣໂມຊັ່ນການຢັ້ງຢືນໄດ້ຖືກນໍາໃຊ້ຈາກການເກັບກໍາຂໍ້ມູນ, ການແປຮູບ, 
+  ການຄິດໄລ່ຈົນຈົບແລະການພິມຜົນຂອງGDP ແລະ ການຄາດຄະເນປະຊາກອນ. </p>
 DATA_SOURCE: <p> Lao Statistics Bureau</p>
-COVERAGE: <p> ການສໍາຫຼວດຂອງກໍາລັງແຮງງານໄດ້ຖືກດໍາເນີນໃນໄລຍະຫ້າປີນັບແຕ່ປີ 2010</p><p>Disaggated
-  by Location (U/R), ກຸ່ມເພດແລະອາຍຸ. </p>
+COVERAGE: <p> ການສໍາຫຼວດຂອງກໍາລັງແຮງງານໄດ້ຖືກດໍາເນີນໃນໄລຍະຫ້າປີນັບແຕ່ປີ 
+  2010</p><p>Disaggated by Location (U/R), ກຸ່ມເພດແລະອາຍຸ. </p>
 CONTACT_PHONE: <p>+856 20 55 795 043</p><p>+856 21 214 740</p>
-CONTACT_ORGANISATION: <p> Lao Statistics Bureau</p>
+CONTACT_ORGANISATION: <p>ສູນສະຖິຕິແຫ່ງຊາດ</p>
 CONTACT_NAME: <p> Mr.Vilaysook SISOULATH</p>
 CONTACT_MAIL: '<p> Ministry of Planning and Investment</p><p>Lao Statistics Bureau,
   ບ້ານດອນຈັນທະວົງ, ເມືອງສີໂຄດຕະບອງ, ແຂວງ Vientiane Capital Province. ໂທ: (+856 21)
   214740, ແຟັກ: (+856 21) 242022. </p>'
 CONTACT_FUNCT: <p> ຮອງຜູ້ອໍານວຍການໃຫຍ່</p>
-CONTACT_EMAIL: <p> <a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a
+CONTACT_EMAIL: <p> <a 
+  href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a 
   href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p>
 COMPILING_ORG: <p> Lao Statistics Bureau</p>
 COMPARABILITY: <p> ກະລຸນາເບິ່ງລາຍການ 4.b</p>
