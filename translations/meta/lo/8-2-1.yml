@@ -21,11 +21,11 @@ SDG_TARGET: <p>8.2
   ການຍົກລະດັບເຕັກໂນໂລຊີ ແລະ ການປະດິດສ້າງ, 
   ລວມທັງຜ່ານການສຸມໃສ່ຂະແຫນງທີ່ມີມູນຄ່າສູງ ແລະ ຂະແຫນງແຮງງານ. </p>
 SDG_SERIES_DESCR: <p> SL_EMP_PCAP</p>
-SDG_RELATED_INDICATORS: <p> ນ/A</p>
+SDG_RELATED_INDICATORS: <p> ບໍ່ມີ</p>
 SDG_INDICATOR: <p>8.2.1 ເປີເຊັນຂອງການເຕີບໂຕຂອງຜົນຜະລິດແຮງງານ (GDP/per person 
   employed)</p>
-SDG_GOAL: '<p> SDG 8: ວຽກງານທີ່ເຫມາະສົມ ແລະ ການເຕີບໂຕທາງດ້ານເສດຖະກິດ: ສົ່ງເສີມການເຕີບໂຕທາງດ້ານເສດຖະກິດແບບຍືນຍົງ,
-  ລວມແລະຍືນຍົງ, ມີວຽກເຮັດງານທໍາຢ່າງເຕັມທີ່ ແລະ ມີປະສິດທິຜົນ ແລະ ວຽກງານທີ່ເຫມາະສົມສໍາລັບທຸກຄົນ</p>'
+SDG_GOAL: '<p>SDG 8: ວຽກງານທີ່ມີຄຸນຄ່າ ແລະ ການເຕີບໂຕທາງດ້ານເສດຖະກິດ: ສົ່ງເສີມການເຕີບໂຕທາງດ້ານເສດຖະກິດທີ່ຕໍ່ເນື່ອງ,
+  ທຸກພາກສ່ວນມີສ່ວນຮ່ວມ ແລະ ຍືນຍົງ, ການຈ້າງງານທີ່ເຕັມສ່ວນ ແລະ ມີຜະລິດທະພາບ ແລະ ວຽກງານທີ່ມີຄຸນຄ່າສຳລັບທຸກຄົນ</p>'
 SDG_CUSTODIAN_AGENCIES: <p> ILO</p>
 REL_CAL_POLICY: <p>2022</p>
 REG_AGG: <p>ບໍ່ມີ</p>
@@ -39,21 +39,21 @@ REC_USE_LIM: '<p> ມາດຕະການຜົນຜະລິດແມ່ນ�
   ມີ ວຽກ ເຮັດ ງານ ທໍາ ທີ່ ໄດ້ ຮັບ ຄ່າ ຈ້າງ ຫນຶ່ງ ຫຼື ຫຼາຍ ກວ່າ ນັ້ນ ໃນ ໄລ ຍະ ປີ. ນັ້ນ,
   ຄວາມຫນ້າເຊື່ອຖືຂອງຂໍ້ມູນການຈ້າງງານຍັງຂຶ້ນກັບລະດັບການປົກຫຸ້ມຂອງກິດຈະກໍາທີ່ບໍ່ເປັນທາງການໂດຍແຫຼ່ງສະຖິຕິທີ່ນໍາໃຊ້.
   </p>'
-QUALITY_MGMNT: <p> ນ/A</p>
-QUALITY_ASSURE: <p> ນ/A</p>
-QUALITY_ASSMNT: <p> ນ/A</p>
+QUALITY_MGMNT: <p> ບໍ່ມີ</p>
+QUALITY_ASSURE: <p> ບໍ່ມີ</p>
+QUALITY_ASSMNT: <p> ບໍ່ມີ</p>
 OTHER_DOC: <ol> <li> <a 
   href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf</a></li><li>https://unstats.un.org/sdgs/metadata/</li></ol>
 ORGANISATION_UNIT: <p> ພະແນກສະຖິຕິສັງຄົມ</p>
 META_LAST_UPDATE: <p>1 ພຶດສະພາ 2021</p>
-INST_MANDATE: <p> ບົນພື້ນຖານກົດຫມາຍສະຖິຕິ ແລະ ຍຸດທະສາດແຫ່ງຊາດ 
-  ເພື່ອການພັດທະນາລະບົບສະຖິຕິແບບຍືນຍົງ 2016-2020 ແລະ ວິໄສທັດສໍາລັບປີ 2030, 
-  ກະຊວງແຜນການ ແລະ ການລົງທຶນ (MPI) ທົ່ວກົມສະຖິຕິLao ໃນການຮ່ວມມືກັບກະຊວງແຮງງານ ແລະ
-  ສະຫວັດດີການ ໄດ້ດໍາເນີນການສໍາຫຼວດກໍາລັງແຮງງານລາວ ໃນປີ 2017. </p>
-IMPUTATION: <p> ນ/A</p>
+INST_MANDATE: <p>ອີງຕາມກົດໝາຍວ່າດ້ວຍສະຖິຕິ ແລະ ຍຸດທະສາດແຫ່ງຊາດ 
+  ເພື່ອການພັດທະນາລະບົບສະຖິຕິແບບຍືນຍົງ 2016-2020 ແລະ ວິໄສທັດຮອດປີ 2030, 
+  ກະຊວງແຜນການ ແລະ ການລົງທຶນ ໂດຍຜ່ານສູນສະຖິຕິແຫ່ງຊາດ ຮ່ວມກັບ ກະຊວງແຮງງານ ແລະ 
+  ສະຫວັດດີການສັງຄົມ ໄດ້ຈັດຕັ້ງປະຕິບັດການສຳຫຼວດກຳລັງແຮງງານລາວ ໃນປີ 2017.</p>
+IMPUTATION: <p> ບໍ່ມີ</p>
 FREQ_COLL: <p>2021</p>
-DOC_METHOD: <p> ນ/A</p>
-DATA_VALIDATION: <p> ນ/A</p>
+DOC_METHOD: <p> ບໍ່ມີ</p>
+DATA_VALIDATION: <p> ບໍ່ມີ</p>
 DATA_SOURCE: <p> Lao Statistics Bureau</p>
 DATA_COMP: <p> GDP ຕົວຈິງຕໍ່ຄົນທີ່ມີວຽກເຮັດງານທໍາ= (GDP ໃນລາຄາທີ່ສະຫມ່ໍາສະເຫມີ 
   )/(Total 
@@ -67,14 +67,14 @@ COVERAGE: <p> ການສໍາຫຼວດກໍາລັງແຮງງານ
   2010</p><p>ບໍ່ມີການຕັດສີນໃຈທີ່ຈໍາເປັນສໍາລັບຕົວຊີ້ວັດນີ້. </p>
 CONTACT_PHONE: <p>+856 20 55 795 043</p><p>+856 21 214 740</p>
 CONTACT_ORGANISATION: <p>ສູນສະຖິຕິແຫ່ງຊາດ</p>
-CONTACT_NAME: <p> Mr.Vilaysook SISOULATH</p>
-CONTACT_MAIL: <p> ນ/A</p>
+CONTACT_NAME: <p>ທ່ານ ວິໄລສຸກ ສີສຸລາດ</p>
+CONTACT_MAIL: <p> ບໍ່ມີ</p>
 CONTACT_FUNCT: <p> ຮອງຜູ້ອໍານວຍການໃຫຍ່</p>
 CONTACT_EMAIL: <p> <a 
   href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a 
   href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p><p>https://www.lsb.gov.la</p>
-COMPILING_ORG: <p> Lao Statistics Bureau</p>
-COMPARABILITY: <p> ນ/A</p>
+COMPILING_ORG: <p>ສູນສະຖິຕິແຫ່ງຊາດ</p>
+COMPARABILITY: <p> ບໍ່ມີ</p>
 COLL_METHOD: '<p> ຕ້ອງການຄໍາບັນຍາຍກ່ຽວກັບຂໍ້ມູນດ້ານການບໍລິຫານຈາກຫ້ອງການສະຖິຕິLao</p><p><p><p>ການສໍາຫຼວດກໍາລັງແຮງງານທີ່ໄດ້ຖືກຈັດຕັ້ງປະຕິບັດໃນ
   ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວໃນປີ 2017 (LFS 2017) ຮັບຮອງເອົາແນວຄວາມຄິດໃຫມ່ກ່ຽວກັບວຽກງານ,
   ການຈ້າງງານ ແລະ ການບໍ່ໃຊ້ແຮງງານທີ່ຖືກຮັບຮອງເອົາໂດຍກອງປະຊຸມສາກົນຄັ້ງທີ 19 ຂອງນັກສະຖິຕິແຮງງານ
@@ -89,5 +89,5 @@ COLL_METHOD: '<p> ຕ້ອງການຄໍາບັນຍາຍກ່ຽວ�
   2015. ເຂດປົກຄອງແຂວງ ເປົ້າຫມາຍ 10,800 ຄົວເຮືອນຕົວຢ່າງ ຢູ່ທີ່ 3% ແລະ 6% ຂອງຂໍ້ຜິດພາດ.
   </li> </ul> <p> <strong> ການເກັບຂໍ້ມູນ: </strong>ເລີ່ມຕົ້ນ: 2017, ທ້າຍ: 2017</p><p><strong><strong>Data
   Collection Mode: </strong>ຫນ້າຕໍ່ຫນ້າ</p>'
-CLASS_SYSTEM: <p> ນ/A</p>
-ADJUSTMENT: <p> ນ/A</p>
+CLASS_SYSTEM: <p> ບໍ່ມີ</p>
+ADJUSTMENT: <p> ບໍ່ມີ</p>
