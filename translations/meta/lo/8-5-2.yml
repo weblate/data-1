@@ -32,8 +32,8 @@ SDG_SERIES_DESCR: <p> ອັດຕາການຫວ່າງງານ</p>
 SDG_RELATED_INDICATORS: <p> ສະຖິຕິເສດຖະກິດໃດທີ່ໃຊ້ສໍາລັບຕົວຊີ້ວັດ ອື່ນໆ ຂອງ SDG 
   </p>
 SDG_INDICATOR: '<p>8.5.2 ອັດຕາການຫວ່າງງານໂດຍເພດ</p>'
-SDG_GOAL: '<p> SDG 8: ວຽກງານທີ່ເຫມາະສົມ ແລະ ການເຕີບໂຕທາງດ້ານເສດຖະກິດ: ສົ່ງເສີມການເຕີບໂຕທາງດ້ານເສດຖະກິດແບບຍືນຍົງ,
-  ລວມແລະຍືນຍົງ, ມີວຽກເຮັດງານທໍາຢ່າງເຕັມທີ່ ແລະ ມີປະສິດທິຜົນ ແລະ ວຽກງານທີ່ເຫມາະສົມສໍາລັບທຸກຄົນ</p>'
+SDG_GOAL: '<p>SDG 8: ວຽກງານທີ່ມີຄຸນຄ່າ ແລະ ການເຕີບໂຕທາງດ້ານເສດຖະກິດ: ສົ່ງເສີມການເຕີບໂຕທາງດ້ານເສດຖະກິດທີ່ຕໍ່ເນື່ອງ,
+  ທຸກພາກສ່ວນມີສ່ວນຮ່ວມ ແລະ ຍືນຍົງ, ການຈ້າງງານທີ່ເຕັມສ່ວນ ແລະ ມີຜະລິດທະພາບ ແລະ ວຽກງານທີ່ມີຄຸນຄ່າສຳລັບທຸກຄົນ</p>'
 SDG_CUSTODIAN_AGENCIES: <p> ILO</p>
 REL_CAL_POLICY: <p> ຫົກເດືອນຫຼັງຈາກປີອ້າງອີງ, ການປ່ອຍຕໍ່ໄປແມ່ນວັນທີ 2022</p>
 REC_USE_LIM: <p> Caveats ແລະ ຂໍ້ ຈໍາ ກັດ ທີ່ ມີ ຢູ່ ໃນ ການ ປະ ເມີນ ອີງ ຕາມ ບັນ 
@@ -105,7 +105,7 @@ COVERAGE: <p> ການສໍາຫຼວດຂອງກໍາລັງແຮງ
   2010</p><p>Disaggated by Location (U/R), ກຸ່ມເພດແລະອາຍຸ. </p>
 CONTACT_PHONE: <p>+856 20 55 795 043</p><p>+856 21 214 740</p>
 CONTACT_ORGANISATION: <p>ສູນສະຖິຕິແຫ່ງຊາດ</p>
-CONTACT_NAME: <p> Mr.Vilaysook SISOULATH</p>
+CONTACT_NAME: <p>ທ່ານ ວິໄລສຸກ ສີສຸລາດ</p>
 CONTACT_MAIL: '<p> Ministry of Planning and Investment</p><p>Lao Statistics Bureau,
   ບ້ານດອນຈັນທະວົງ, ເມືອງສີໂຄດຕະບອງ, ແຂວງ Vientiane Capital Province. ໂທ: (+856 21)
   214740, ແຟັກ: (+856 21) 242022. </p>'
@@ -113,7 +113,7 @@ CONTACT_FUNCT: <p> ຮອງຜູ້ອໍານວຍການໃຫຍ່</p>
 CONTACT_EMAIL: <p> <a 
   href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a 
   href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p>
-COMPILING_ORG: <p> Lao Statistics Bureau</p>
+COMPILING_ORG: <p>ສູນສະຖິຕິແຫ່ງຊາດ</p>
 COMPARABILITY: <p> ກະລຸນາເບິ່ງລາຍການ 4.b</p>
 COLL_METHOD: '<p> ການສໍາຫຼວດກໍາລັງແຮງງານ ທີ່ໄດ້ຈັດຕັ້ງປະຕິບັດຢູ່ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ
   ໃນປີ 2017 (LFS 2017) ຮັບຮອງເອົາແນວຄວາມຄິດໃຫມ່ກ່ຽວກັບວຽກງານ, ການຈ້າງງານ ແລະ ການບໍ່ໃຊ້ແຮງງານ
