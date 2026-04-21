@@ -4,11 +4,11 @@ DATA_COMP: <p> ວິ ທີ ການ ທີ່ ມີ ມາດ ຕະ ຖາ�
   ທະ ນາ, ການ ທົບ ທວນ ແລະ ຈັດ ພິມ ໃນ ເອ ກະ ສານ 
   ຕ່າງໆ:</p><p>http://www.who.int/water_sanitation_health/gbd_poor_water/en/</p><p>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4255749/</p>
 CONTACT_PHONE: <p>+856 20 55 509 676</p><p>+856 21 252 753, 264086</p>
-CONTACT_ORGANISATION: <p> ກະຊວງສາທາຣະນະສຸຂ</p>
-CONTACT_NAME: <p> ດຣ Founkham Lattanavong</p>
+CONTACT_ORGANISATION: <p>ກະຊວງສາທາລະນະສຸກ</p>
+CONTACT_NAME: <p>ດຣ ຟຸງຄຳ ລັດຕະນະວົງ</p>
 CONTACT_MAIL: <p> ບໍ່ມີ</p>
-CONTACT_FUNCT: <p> ຜູ້ອໍານວຍການໃຫຍ່</p>
-CONTACT_EMAIL: <p> <a 
+CONTACT_FUNCT: <p>ຫົວໜ້າກົມ</p>
+CONTACT_EMAIL: <p><a 
   href="mailto:rfounkham@yahoo.com">rfounkham@yahoo.com</a></p>
 COMPILING_ORG: <p> ພະແນກແຜນການ ແລະ ການຮ່ວມມື</p>
 COLL_METHOD: <p> <strong> ຮູບແບບການເກັບຂໍ້ມູນ:</strong> 
@@ -53,6 +53,6 @@ RATIONALE: <p> ຕົວຊີ້ວັດສະແດງເຖິງຈໍາ�
   ລວມທັງຜົນໄດ້ຮັບດ້ານສຸຂະພາບທີ່ກ່ຽວຂ້ອງ, 
   ແລະດັ່ງນັ້ນຈຶ່ງໃຫ້ຂໍ້ມູນທີ່ສໍາຄັນກ່ຽວກັບພະຍາດຕົວຈິງທີ່ເກີດຈາກຄວາມສ່ຽງທີ່ວັດແທກໃນ
   6.1, 6.2 ແລະ 6.3. </p>
-ORGANISATION_UNIT: <p> ພະແນກແຜນການ ແລະ ການຮ່ວມມື</p>
+ORGANISATION_UNIT: <p>ກົມແຜນການ ແລະ ການຮ່ວມມື</p>
 META_LAST_UPDATE: <p>23 May 2021</p>
 INST_MANDATE: <p> WHO</p>
